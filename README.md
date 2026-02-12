@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Cytometry in R - Starter questions
 
-OliCSP is a ✨ _special_ ✨ repository because its `README.md` (OliCSP) appears on your GitHub profile.
+OliCSP is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Cytometry in R:
 - Location: Granada, Spain
